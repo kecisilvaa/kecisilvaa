@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 💙💙
 
-Meu nome: Keciane B Da silva
+Meu nome: Keciane Da silva
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
